@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tmx version="1.4"><header creationtool="Python" creationtoolversion="3.0.8.0" datatype="unkown" segtype="paragraph" adminlang="EN-US" srclang="EN-US" o-tmf="Python" creationdate="2021-07-20 22:51:58" creationid="saeedmg" changedate="2021-07-20 22:51:58" changeid="saeedmg">
+</header>
+      <body>
+        <tu>
+         <tuv xml:lang="EN-US">
+            <seg>hello my name is John.</seg>
+         </tuv>
+        <tuv xml:lang="FA-IR">
+           <seg>سلام اسم من جان</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="EN-US">
+            <seg>Today is Monday.</seg>
+         </tuv>
+        <tuv xml:lang="FA-IR">
+           <seg>امروز دوشنبه است</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="EN-US">
+            <seg>We are here for the party.</seg>
+         </tuv>
+        <tuv xml:lang="FA-IR">
+           <seg>ما برای جشن اینجا آمده ایم</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="EN-US">
+            <seg>Why are you so sad?</seg>
+         </tuv>
+        <tuv xml:lang="FA-IR">
+           <seg>را اینقدر غمگینی؟</seg>
+         </tuv>
+        </tu>
+  	</body>
+  	      </tmx>
